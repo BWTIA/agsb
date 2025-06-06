@@ -35,7 +35,7 @@ USER_NAME = "okk"         # 用户名
 UUID = "355bc9a8-3055-4d08-bcf6-b768169788e5"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
 DOMAIN = "streamlit.rw.cloudns.org"                   # 域名，留空则自动获取
-CF_TOKEN = "eyJhIjoiODBmMjY5ZmQ1N2QzNzNiMmMzZTBkODc4ODg1NWM5MzIiLCJ0IjoiZmVhMzBmODUtOGY5OC00ZTVmLTkyZTktMmU2OTk2M2E1YzUyIiwicyI6Ik4yTmlZemxpTlRjdE5UVm1PQzAwTjJZekxXRmpORGt0TVdVNE5HUmtORGN3TldObSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
+CF_TOKEN = "eyJhIjoiMjNkYzI3MjNkYjczMTVhNmQ0ZDZmZjUxZDU2ZmM4MzciLCJ0IjoiMThjZjcyYWUtYTUzOC00YmYwLTgzMzktYzVmNTdhMzNmNjAwIiwicyI6IlpEWTJaVFE1TjJNdFlUazVNeTAwTkRCa0xUbGxaREl0T0dSbU9HTTFOemcxTmpFeiJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
 # 添加命令行参数解析
